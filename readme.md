@@ -7,7 +7,7 @@ Program Python ini mengambil data mengenai 250 film teratas dari IMDb dan memper
 1. Clone repository:
 
     ```bash
-    git clone https://github.com/GROSANIA/imdb-webscraps.git
+    git clone https://github.com/Nhuravi/imdb-scrapper.git
     cd imdb-web-scraper
     ```
 
